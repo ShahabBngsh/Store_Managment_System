@@ -16,7 +16,7 @@ posts = [
     'rollNo': 'i180616',
     'section': 'A',
     'title': 'new post',
-    'content': 'another random text1'
+    'content': 'more random text'
   }
 ]
 
